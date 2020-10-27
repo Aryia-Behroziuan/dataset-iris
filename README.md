@@ -23,7 +23,7 @@ The iris data set is widely used as a beginner's dataset for machine learning pu
 R code illustrating usage
 iris
 class(iris)
-# "data.frame"
+### "data.frame"
 
 iris3
 class(iris3)
